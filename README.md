@@ -36,4 +36,5 @@ root                    (project root folder)
 
 ## Authors
 ---
+* Edited code from RFK game
 * Jeremiah Joseph Miclat (jeremiah_miclat@byui.edu)
